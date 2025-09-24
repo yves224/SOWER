@@ -1,0 +1,5 @@
+{
+  "name": "SOWER",
+  "description": "Une application de gestion financière personnelle qui intègre des principes de planification budgétaire (50/20/10/10/10) avec le suivi de la dîme et des offrandes pour une approche holistique de vos finances.",
+  "requestFramePermissions": []
+}
